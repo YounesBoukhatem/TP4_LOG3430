@@ -21,4 +21,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run git bisect
-        run: python TP4_LOG3430/myscript.py
+        run: python myscript.py
